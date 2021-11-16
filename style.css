@@ -72,6 +72,11 @@ body {
     border-radius: 8px;
     background: #68f16c;
     color: white;
+    transition: transform ease 150ms;
+}
+
+.btn:hover {
+    transform: scale(1.2);
 }
 
 input {
