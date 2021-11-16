@@ -30,7 +30,7 @@ function meanBubble(bars, i) {
         }
     }
 }
-
+//thanks https://stackoverflow.com/a/21536690
 function exchangeElements(element1, element2)
 {
     var clonedElement1 = element1.cloneNode(true);
